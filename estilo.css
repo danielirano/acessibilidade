@@ -1,0 +1,202 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+
+.banner img{
+height: 100%;
+width: 100%;
+}
+
+
+.navbar {
+  
+    background-color: #fce428;
+}
+
+    
+.hdois{
+    width: 100%;
+    font-family: 'Varela Round', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+h1, h4{
+    width: 100%;
+    font-size: 24px;
+}
+
+.previa{
+    width: 100%;
+    text-align: center;
+    font-family: 'Varela Round', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    color:#222222;
+}
+
+.col{
+    width: 100%;
+    
+}
+.loja{
+    width: 250px;
+    margin: 0 auto;
+    padding: 0;
+    float: center;
+}
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    
+}
+
+.logo{
+    height: 45px;
+}
+
+.h6{
+text-align: center;
+}
+
+
+.dfooter{
+    width: 100%;
+    text-align: center;
+    background-color: #fce428;
+}
+
+.drodape{
+    width: 100%;
+    text-align: center;
+    background-color: #fce428;
+}
+
+.logorodape{
+    width: 120px;
+    height: 50px;
+    float: left;
+    margin: 10px;
+
+}
+.produtos_inicio{
+    text-align: center;
+    color: rgb(2, 5, 136);
+    background-color: yellow;
+    font-size: 32px;
+}
+
+.entregarodape{
+    width: 150px;
+    height: 50px;
+    float: right;
+    margin: 10px;
+    
+}
+
+.menoresrodape{
+    width: 100px;
+    height: 80px;
+    float: right;
+}
+
+
+.redesociaisrodape{
+    width: 25px;
+    height: 25px;
+    float: center;
+}
+
+.conteudorodape{
+    text-align: center;
+    position: center;
+}
+
+
+.cartoesrodape{
+    width:300px;
+    height: 100px;
+    float: right;
+    margin-top: 100px;
+    margin-right: 5px;
+}
+
+.nlojas {
+    text-align: center;
+    }
+  
+.row{
+    width: 100%;
+}
+
+.promo{
+    width: 170px;
+    height: 160px;
+    margin:30px;
+}
+
+p{
+    width: 100%;
+    text-align: center;
+}
+.card-bodyP{
+    width: 100%;
+    color:white;
+    margin-top: 5px;
+    margin: 0;
+    padding: 0;
+background-color:rgb(2, 5, 136) ;
+}
+
+.card-textP{
+    width: 100%;
+    text-align: center;
+    color:rgb(238, 241, 14);
+}
+
+.card-title{
+    width: 100%;
+    text-align: center;
+}
+
+.card{
+    width: 100%;
+    left: 5%;
+}
+
+.TextoRodape{
+    font-family: 'Varela Round', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 12px;
+
+}
+
+.tp{
+    text-align: center;
+    color:rgb(2, 5, 136) ;
+
+}
+
+.section, .container, .card{ 
+    width: 100%;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.localizacao{
+    width: 70px;
+    height: 60px;
+}
+
+.sucrilhos {
+    height: 240px;
+}
+
+.formulaarioo{
+    margin: 100px;
+}
+
+.marge{
+    margin: 5%;
+}
