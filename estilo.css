@@ -200,3 +200,28 @@ background-color:rgb(2, 5, 136) ;
 .marge{
     margin: 5%;
 }
+
+#inicio i{
+    color: blue;
+    padding: 2px;
+     }
+            
+        #inicio i:hover{
+            color:rgb(238, 241, 14) !important;
+        }
+
+        #inicio {
+         padding: 50px !important;
+         color: white !important;
+         position: fixed !important;
+         bottom: 3% !important;
+         right: 1% !important;
+         width: 20px !important;
+         height: 20px !important;
+         font-size: 50px;
+         animation-name: bgchange !important;
+         animation-delay: 1s !important;
+         animation-iteration-count: infinite !important;
+         z-index: 10 !important;
+       }
+        
